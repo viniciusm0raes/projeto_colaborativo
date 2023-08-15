@@ -1,4 +1,9 @@
+-----------------------------------------------------------------------------------------------------
+Conectar com o repositório criado e enviar arquivos
+
 git remote add origin https://github.com/nomedousuario/nomedorepositorio.git
 git branch -M main
 git push -u origin main
+
+-----------------------------------------------------------------------------------------------------
 
