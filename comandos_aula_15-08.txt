@@ -6,5 +6,5 @@ git branch -M main
 git push -u origin main
 
 -----------------------------------------------------------------------------------------------------
-para ver as configurações do usuário
+para ver as configurações do usuário, dentre outras informações
 git config --list
